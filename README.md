@@ -29,6 +29,6 @@ By mapping the joint distribution of optical refractive index ($n$) and electron
 Clone the repository environment locally and install the dependencies into a clean virtual environment:
 
 ```bash
-git clone [https://github.com/YOUR_USERNAME/alignn-penn-moss.git](https://github.com/johmar-22/alignn-penn-moss.git)
+git clone https://github.com/johmar-22/alignn-penn-moss.git
 cd alignn-penn-moss
 pip install -r requirements.txt
