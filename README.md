@@ -23,7 +23,7 @@ By mapping the joint distribution of optical refractive index ($n$) and electron
 | **Operating System** | Windows 10/11 / macOS | Ubuntu 22.04 LTS |
 
 *Estimated Inference Runtime:* < 5 minutes on standard desktop configurations using a pre-computed graph setup.
-
+## UNDER REVIEW
 ## Installation
 
 Clone the repository environment locally and install the dependencies into a clean virtual environment:
@@ -33,4 +33,3 @@ git clone https://github.com/johmar-22/alignn-penn-moss.git
 cd alignn-penn-moss
 pip install -r requirements.txt
 
-##UNDER REVIEW
