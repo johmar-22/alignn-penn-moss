@@ -4,7 +4,7 @@
 
 
 **Author:** Johaimen M. Omar  
-**Affiliations:** Kastamonu University, Türkiye; Mindanao State University - Marawi Campus, Philippines  **Journal:** Computational Materials Science (Submitted)
+**Affiliations:** Kastamonu University, Türkiye; Mindanao State University - Marawi Campus, Philippines
 
 ## Overview
 
@@ -32,3 +32,5 @@ Clone the repository environment locally and install the dependencies into a cle
 git clone https://github.com/johmar-22/alignn-penn-moss.git
 cd alignn-penn-moss
 pip install -r requirements.txt
+
+##UNDER REVIEW
