@@ -1,0 +1,22 @@
+{
+  "method": "split_conformal_absolute",
+  "nonconformity_score": "s_i = |y_i - mu_i|  (absolute, no sigma division)",
+  "interval_formula": "[mu - q, mu + q]  (constant width)",
+  "coverage_target": 0.9,
+  "alpha": 0.09999999999999998,
+  "n_calibration": 804,
+  "seeds": [
+    42,
+    123,
+    456
+  ],
+  "q_n": 0.310659,
+  "q_eg": 1.032909,
+  "eps": 0.0,
+  "test_n_coverage": 0.8706,
+  "test_n_width": 0.6213,
+  "test_eg_coverage": 0.9179,
+  "test_eg_width_eV": 2.0658,
+  "scores_n_mean": 0.125361,
+  "scores_eg_mean_eV": 0.445597
+}

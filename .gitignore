@@ -1,0 +1,20 @@
+# Exclude large pickled data blocks and graph caches
+data/*.pkl
+data/*.pkl.tmp
+
+# Exclude raw deep learning checkpoint binaries
+models/
+*.pt
+*.pth
+
+# Exclude local runtime or temporary workspace artifacts
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
+# Whitelist vital parameter configuration files
+!data/normalization_stats.json
+!data/conformal_calibration.json
